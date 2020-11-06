@@ -1,0 +1,4 @@
+(一) 第一次安裝Geo2020請執行Setup.exe
+
+(二) 以前安裝過Geo2020請執行Geo2020Edu_Setup.smi
+
